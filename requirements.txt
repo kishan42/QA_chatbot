@@ -6,3 +6,7 @@ langchain-core
 langchain-objectbox
 huggingface-hub
 sentence_transformers
+pypdf
+groq
+cassio
+language_tool_python
